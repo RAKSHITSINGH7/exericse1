@@ -17,9 +17,18 @@ public class Student {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        public String getName() {
+
+    /**
+     *
+     * @return
+     */
+    public String getName() {
             return name;
         }
+
+    void setName(String nextLine) {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
     }
 
     public void setName(String name)
