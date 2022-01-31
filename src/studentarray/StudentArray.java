@@ -22,6 +22,7 @@ public class StudentArray {
         
         System.out.println("name: "+s1.getName());
         
+        System.out.println("Hello");
         
         Student[] studList = new Student[5];
     }
